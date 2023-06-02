@@ -2,7 +2,7 @@
 This is the second project from the Data Analyst Nanodegree at Udacity.
 
 ## Project Overview
-This project summarizes the steps present in the Data Analysis process.
+This [project](investigate-a-dataset.ipynb) summarizes the steps present in the Data Analysis process.
 At first, I cleaned and prepared the data. After that, I carried out an 
 Exploratory Data Analysis. To sum up, I drew conclusions that answered 
 the questions I posed at the beginning. For my project, I chose the 
